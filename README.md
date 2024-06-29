@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhoomika-Hacker
 - 👀 I’m interested in coding, Problem Solving Skills,
-- 🌱 I’m currently learning C++,Java
+- 🌱 I’m currently learning C++,Java,python
 - 💞️ I’m looking to collaborate on app development,Cloud Computing, Artifical Intelligence And Machine Learning
 - 📫 How to reach me e-mail Id-bhoomikagoyal8146@gmail.com
 - 😄 Pronouns: she/Her
